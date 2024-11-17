@@ -1,0 +1,37 @@
+#formulario-mensaje input,#formulario-mensaje textarea{
+    width: 65%;
+}
+
+#contenedor-mensajeria{
+    margin-left: 40%;
+    margin-top: -25%;
+}
+
+#formulario-mensaje textarea{
+    height: 125px;
+}
+
+#formulario-mensaje label{
+    font-weight: bold;
+}
+
+#mail-imagen{
+    height: 60%;
+    width: 30%;
+}
+
+.logo-correo{
+    width: 6%;
+    height: 5%;
+    float: left;
+    margin-top: -2%;
+}
+
+.asunto-horario{
+    font-size: 13px;
+    float: right;
+}
+
+.asunto{
+    font-size: 17px;
+}

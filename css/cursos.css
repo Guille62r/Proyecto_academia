@@ -1,0 +1,23 @@
+#contenedor{
+    margin-top: 5%;
+}
+
+#introduccion{
+    margin-bottom: 3%;
+}
+
+h3{
+   margin-left: 50%;
+}
+
+.card{
+    width: 99%;
+    height: 80%;
+    margin-bottom: 3%;
+}
+
+
+.card iframe{
+    border-radius: 5px;
+}
+
